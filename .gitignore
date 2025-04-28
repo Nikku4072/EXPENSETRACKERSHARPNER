@@ -1,5 +1,5 @@
 node_modules
 .env
-ExpenseTrackerInstance.pem
+my-key-pair.pem
 desktop.ini
 access.log
