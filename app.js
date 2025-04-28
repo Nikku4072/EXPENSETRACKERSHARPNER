@@ -1,4 +1,7 @@
+console.log("Application starting...");
+
 const express = require('express')
+const Razorpay=require('razorpay');
 const app = express()
 require('dotenv').config()
 const cors = require('cors')
